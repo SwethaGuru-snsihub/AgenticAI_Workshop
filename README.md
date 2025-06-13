@@ -15,5 +15,6 @@ updated date : 12/06/2025
 
 Assignment 4
 Task name    : RAG QA SYSTEM
-created date : 12/06/2025
+created date : 13/06/2025
 updated date : 13/06/2025
+
