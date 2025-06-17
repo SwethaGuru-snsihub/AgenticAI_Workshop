@@ -23,12 +23,17 @@ Task name    : Healthcare Systems Policy Partner
 created date : 14/06/2025
 updated date : 14/06/2025
 
-Assignment 5
+Assignment 6
 Task name    : Research Agent using the ReAct Pattern
 created date : 15/06/2025
 updated date : 15/06/2025
 
-Assignment 6
+Assignment 7
 Task name    : Study Assistant for Quiz Generation
+created date : 15/06/2025
+updated date : 15/06/2025
+
+Assignment 8
+Task name    : Travel Assistant
 created date : 15/06/2025
 updated date : 15/06/2025
