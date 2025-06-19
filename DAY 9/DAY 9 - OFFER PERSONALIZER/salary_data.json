@@ -1,0 +1,169 @@
+{
+  "market_data": [
+    {
+      "role": "Software Engineer",
+      "company": "Google",
+      "location": "Bangalore",
+      "experience_range": "0-2",
+      "base_salary": 1800000,
+      "total_compensation": 2300000,
+      "stock_grant": 300000,
+      "annual_bonus": 200000,
+      "market_tier": "Tier1"
+    },
+    {
+      "role": "Software Engineer II",
+      "company": "Google",
+      "location": "Bangalore",
+      "experience_range": "2-5",
+      "base_salary": 3200000,
+      "total_compensation": 4500000,
+      "stock_grant": 800000,
+      "annual_bonus": 500000,
+      "market_tier": "Tier1"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Google",
+      "location": "Bangalore",
+      "experience_range": "5-8",
+      "base_salary": 5500000,
+      "total_compensation": 8500000,
+      "stock_grant": 2000000,
+      "annual_bonus": 1000000,
+      "market_tier": "Tier1"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Microsoft",
+      "location": "Bangalore",
+      "experience_range": "0-2",
+      "base_salary": 1700000,
+      "total_compensation": 2200000,
+      "stock_grant": 300000,
+      "annual_bonus": 200000,
+      "market_tier": "Tier1"
+    },
+    {
+      "role": "Software Engineer II",
+      "company": "Microsoft",
+      "location": "Bangalore",
+      "experience_range": "2-5",
+      "base_salary": 3000000,
+      "total_compensation": 4200000,
+      "stock_grant": 700000,
+      "annual_bonus": 500000,
+      "market_tier": "Tier1"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Microsoft",
+      "location": "Bangalore",
+      "experience_range": "5-8",
+      "base_salary": 5200000,
+      "total_compensation": 8000000,
+      "stock_grant": 1800000,
+      "annual_bonus": 1000000,
+      "market_tier": "Tier1"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Amazon",
+      "location": "Bangalore",
+      "experience_range": "0-2",
+      "base_salary": 1600000,
+      "total_compensation": 2100000,
+      "stock_grant": 300000,
+      "annual_bonus": 200000,
+      "market_tier": "Tier1"
+    },
+    {
+      "role": "Software Engineer II",
+      "company": "Amazon",
+      "location": "Bangalore",
+      "experience_range": "2-5",
+      "base_salary": 2800000,
+      "total_compensation": 4000000,
+      "stock_grant": 700000,
+      "annual_bonus": 500000,
+      "market_tier": "Tier1"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Amazon",
+      "location": "Bangalore",
+      "experience_range": "5-8",
+      "base_salary": 4800000,
+      "total_compensation": 7500000,
+      "stock_grant": 1700000,
+      "annual_bonus": 1000000,
+      "market_tier": "Tier1"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Meta",
+      "location": "Bangalore",
+      "experience_range": "0-2",
+      "base_salary": 1900000,
+      "total_compensation": 2500000,
+      "stock_grant": 400000,
+      "annual_bonus": 200000,
+      "market_tier": "Tier1"
+    },
+    {
+      "role": "Software Engineer II",
+      "company": "Meta",
+      "location": "Bangalore",
+      "experience_range": "2-5",
+      "base_salary": 3500000,
+      "total_compensation": 5000000,
+      "stock_grant": 1000000,
+      "annual_bonus": 500000,
+      "market_tier": "Tier1"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Flipkart",
+      "location": "Bangalore",
+      "experience_range": "0-2",
+      "base_salary": 1400000,
+      "total_compensation": 1900000,
+      "stock_grant": 300000,
+      "annual_bonus": 200000,
+      "market_tier": "Tier2"
+    },
+    {
+      "role": "Software Engineer II",
+      "company": "Flipkart",
+      "location": "Bangalore",
+      "experience_range": "2-5",
+      "base_salary": 2400000,
+      "total_compensation": 3200000,
+      "stock_grant": 500000,
+      "annual_bonus": 300000,
+      "market_tier": "Tier2"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Flipkart",
+      "location": "Bangalore",
+      "experience_range": "5-8",
+      "base_salary": 3800000,
+      "total_compensation": 5500000,
+      "stock_grant": 1000000,
+      "annual_bonus": 700000,
+      "market_tier": "Tier2"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_range": "0-2",
+      "base_salary": 1300000,
+      "total_compensation": 1700000,
+      "stock_grant": 250000,
+      "annual_bonus": 150000,
+      "market_tier": "Tier2"
+    }
+  ]
+}
