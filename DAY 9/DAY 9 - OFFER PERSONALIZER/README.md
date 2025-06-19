@@ -1,28 +1,21 @@
-Setup Instructions
-`Clone the repository
+# AI Offer Personalizer
 
-bash
+## Setup Instructions
+
+### 1. Clone the Repository
+
+```bash```
 git clone <repository-url>
 cd ai-offer-personalizer
 
-Install dependencies
-
-bash
+### 2. Install Dependencies
 pip install -r requirements.txt
 
-
-Configure environment variables
-
-bash
-# Create .env file
+### 3. Configure Environment Variables
 echo "GEMINI_API_KEY=your-gemini-api-key" > .env
 
-Run the application
-
-bash
+### 4. Run the Application
 streamlit run app.py
 
-Access the application
-
-Open http://localhost:8501 in your browser
-
+###5. Access the Application
+http://localhost:8501
