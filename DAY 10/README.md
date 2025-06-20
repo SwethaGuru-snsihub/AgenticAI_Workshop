@@ -1,4 +1,4 @@
-# Smart Onboarding Assistant - Python backend
+# Smart Onboarding Assistant 
 An AI-powered employee onboarding system built with **LangChain**, **LangGraph**, **FAISS**, and **MongoDB**. This system creates personalized onboarding journeys using OpenAI's GPT-4o-mini and provides intelligent progress tracking.
 ## Technology Stack
 - **Backend**: FastAPI, Python 3.8+
