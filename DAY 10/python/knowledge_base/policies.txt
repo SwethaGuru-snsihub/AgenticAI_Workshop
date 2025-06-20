@@ -1,0 +1,23 @@
+Company Remote Work Policy
+All employees can work remotely up to 3 days per week. Core collaboration hours are 10 AM to 4 PM in your local timezone. All remote workers must use company VPN for secure access to internal systems.
+
+Security Training Requirements
+Mandatory security training must be completed within the first week of employment. This covers data protection protocols, password policies, secure coding practices, and incident reporting procedures.
+
+Professional Development Policy
+Each employee receives an annual learning budget of $2000 for professional development. This can be used for conferences, online courses, certifications, or technical training. Approval from direct manager required.
+
+Mentorship Program Guidelines
+All new employees are paired with an experienced team member for their first 90 days. Mentors provide guidance on company culture, processes, and career development. Weekly check-ins are recommended.
+
+Code Review Standards
+All code changes must go through peer review before merging. Reviews should focus on functionality, security, maintainability, and adherence to coding standards. Minimum of one approval required for merge.
+
+Data Privacy Compliance
+All employees handling customer data must complete GDPR and data privacy training. Personal data access is logged and monitored. Data retention policies must be followed strictly.
+
+Equipment and IT Support
+New employees receive company laptop, monitor, and necessary software licenses. IT support available 24/7 for critical issues. Equipment refresh cycle is every 3 years.
+
+Time Off and Leave Policy
+Employees accrue 20 days of PTO annually. Sick leave is unlimited but requires manager notification. Parental leave follows local regulations with additional company benefits.

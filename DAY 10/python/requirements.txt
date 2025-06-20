@@ -1,0 +1,21 @@
+# Core dependencies
+python-dotenv
+pydantic
+fastapi
+uvicorn
+
+# Database
+pymongo
+motor
+
+# AI/ML
+openai
+langchain
+langchain-openai
+langchain-google-genai
+langgraph
+sentence-transformers
+faiss-cpu
+
+# Utilities
+numpy

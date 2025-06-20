@@ -1,0 +1,48 @@
+Software Engineer Onboarding Checklist
+Day 1: Set up development environment including IDE, Git configuration, and local database setup. Complete security training and receive access credentials. Meet with direct manager and team lead.
+
+Day 2-3: Complete Git workflow training and make first test commit. Set up code review tools and understand branching strategy. Join daily standup meetings and team Slack channels.
+
+Day 4-5: Shadow experienced developer on code review process. Complete first small bug fix or feature implementation. Set up CI/CD pipeline access and understand deployment procedures.
+
+Week 2: Begin working on assigned sprint tasks. Participate in sprint planning and retrospective meetings. Complete technical documentation review for your team's services.
+
+Data Scientist Onboarding Checklist
+Day 1: Set up Python environment with required packages (pandas, numpy, scikit-learn, jupyter). Get access to data warehouse and analytics platforms. Complete data privacy and GDPR training.
+
+Day 2-3: Review existing data pipelines and ETL processes. Set up connection to data lake and understand data catalog. Meet with data engineering team and product stakeholders.
+
+Day 4-5: Complete first data exploration task using company datasets. Learn data governance policies and approval processes for new data usage. Set up version control for notebooks and models.
+
+Week 2: Begin working on assigned analytics project. Learn model deployment procedures and MLOps workflow. Participate in data team meetings and cross-functional project reviews.
+
+Product Manager Onboarding Checklist
+Day 1: Meet with engineering, design, and business stakeholders. Review current product roadmap and ongoing projects. Get access to product analytics tools and user research platforms.
+
+Day 2-3: Shadow customer support calls and review recent user feedback. Understand product metrics and KPIs. Learn project management tools and processes used by the team.
+
+Day 4-5: Review competitive analysis and market research. Attend user interviews or usability testing sessions. Understand product development lifecycle and release processes.
+
+Week 2: Begin contributing to product requirements and user story writing. Participate in sprint planning and backlog grooming. Start building relationships with key business stakeholders.
+
+Marketing Specialist Onboarding Checklist
+Day 1: Review brand guidelines and marketing strategy documents. Get access to marketing automation tools and analytics platforms. Meet with sales team to understand lead qualification process.
+
+Day 2-3: Learn content management system and social media scheduling tools. Review existing marketing campaigns and performance metrics. Understand customer personas and target market segments.
+
+Day 4-5: Shadow customer-facing team members to understand customer pain points. Review marketing calendar and upcoming campaign schedules. Learn lead scoring and nurturing workflows.
+
+Week 2: Begin contributing to content creation and campaign planning. Participate in marketing team meetings and cross-functional project reviews. Start analyzing campaign performance data.
+
+General New Employee Checklist
+HR Setup: Complete all required paperwork including tax forms, benefits enrollment, and emergency contacts. Set up direct deposit and review employee handbook.
+
+IT Setup: Receive company laptop and necessary equipment. Set up email, Slack, and other communication tools. Install required software and configure VPN access.
+
+Facility Access: Get building access card and parking permit if applicable. Complete office tour and emergency procedures training. Learn about kitchen facilities and office amenities.
+
+Team Integration: Schedule coffee chats with team members and key stakeholders. Join relevant Slack channels and email lists. Understand team communication preferences and meeting cadence.
+
+First Week Goals: Complete all mandatory training modules. Set up one-on-one meetings with manager. Understand performance review process and goal-setting framework.
+
+First Month Goals: Complete onboarding checklist and feedback survey. Begin contributing to team projects and deliverables. Establish routine for regular check-ins with manager and mentor.
