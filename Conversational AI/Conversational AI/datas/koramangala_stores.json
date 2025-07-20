@@ -1,0 +1,30 @@
+[
+  {
+    "name": "H&M Koramangala",
+    "location": "5th Block, Koramangala",
+    "footfall": "High",
+    "peak_hours": "5 PM - 9 PM",
+    "category": "Apparel"
+  },
+  {
+    "name": "Zara Studio",
+    "location": "Sony Signal, Koramangala",
+    "footfall": "Moderate",
+    "peak_hours": "4 PM - 8 PM",
+    "category": "Fashion"
+  },
+  {
+    "name": "Max Fashion",
+    "location": "Koramangala 7th Block",
+    "footfall": "High",
+    "peak_hours": "6 PM - 10 PM",
+    "category": "Budget Fashion"
+  },
+  {
+    "name": "Pantaloons",
+    "location": "Raheja Arcade, Koramangala",
+    "footfall": "Moderate",
+    "peak_hours": "3 PM - 7 PM",
+    "category": "Apparel"
+  }
+]

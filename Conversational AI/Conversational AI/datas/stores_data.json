@@ -1,0 +1,1815 @@
+[
+    {
+        "name": "Pai Electronics",
+        "type": "hifi",
+        "address": "N/A",
+        "lat": 12.9337818,
+        "lon": 77.6232571
+    },
+    {
+        "name": "Unknown",
+        "type": "car",
+        "address": "N/A",
+        "lat": 12.9334928,
+        "lon": 77.6157175
+    },
+    {
+        "name": "Lifestyle",
+        "type": "clothes",
+        "address": "Near SonyWorld Signal, Koramangala, Bangalore",
+        "lat": 12.9375475,
+        "lon": 77.6279931
+    },
+    {
+        "name": "Crom\u0101",
+        "type": "electronics",
+        "address": "near Sony World signal, Koramangala, Bangalore",
+        "lat": 12.9380019,
+        "lon": 77.62749
+    },
+    {
+        "name": "Nilgiris",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.935716,
+        "lon": 77.6218199
+    },
+    {
+        "name": "Mystique Saloons",
+        "type": "hairdresser",
+        "address": "Koramangala, Bangalore",
+        "lat": 12.9352432,
+        "lon": 77.6248678
+    },
+    {
+        "name": "Levi's and Nike",
+        "type": "shoes",
+        "address": "N/A",
+        "lat": 12.9337444,
+        "lon": 77.6301835
+    },
+    {
+        "name": "Manyavar",
+        "type": "clothes",
+        "address": "80 Feet Peripheral Rd, Koramangala 6 Block, KoramangalaBengaluru, Karnataka, India",
+        "lat": 12.9376456,
+        "lon": 77.626351
+    },
+    {
+        "name": "Sowbhagya Traders",
+        "type": "supermarket",
+        "address": "N/A",
+        "lat": 12.9352032,
+        "lon": 77.6228947
+    },
+    {
+        "name": "Navya shree sarees",
+        "type": "clothes",
+        "address": "17th C Main",
+        "lat": 12.9371376,
+        "lon": 77.6241392
+    },
+    {
+        "name": "Madhuloka",
+        "type": "alcohol",
+        "address": "Koramangala 5t cross",
+        "lat": 12.9368587,
+        "lon": 77.6200385
+    },
+    {
+        "name": "fulki",
+        "type": "clothes",
+        "address": "6th block koramangala",
+        "lat": 12.9366384,
+        "lon": 77.6206523
+    },
+    {
+        "name": "U Fashion store",
+        "type": "clothes",
+        "address": "5th cross 5th block koramangala",
+        "lat": 12.9365443,
+        "lon": 77.6205772
+    },
+    {
+        "name": "Printo",
+        "type": "copyshop",
+        "address": "N/A",
+        "lat": 12.9357629,
+        "lon": 77.6219971
+    },
+    {
+        "name": "Unknown",
+        "type": "florist",
+        "address": "N/A",
+        "lat": 12.9402493,
+        "lon": 77.6201159
+    },
+    {
+        "name": "Shri Venkateshwara flowers",
+        "type": "florist",
+        "address": "N/A",
+        "lat": 12.9373737,
+        "lon": 77.6194722
+    },
+    {
+        "name": "Ooty Chocolates",
+        "type": "confectionery",
+        "address": "N/A",
+        "lat": 12.9350683,
+        "lon": 77.6245014
+    },
+    {
+        "name": "The boutique",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9390944,
+        "lon": 77.6229075
+    },
+    {
+        "name": "Aanchal",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9397911,
+        "lon": 77.6222423
+    },
+    {
+        "name": "Nandini Shoppe",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.9364451,
+        "lon": 77.6170968
+    },
+    {
+        "name": "F square",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9370938,
+        "lon": 77.6199696
+    },
+    {
+        "name": "Swiss Embroideries",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9357659,
+        "lon": 77.6217238
+    },
+    {
+        "name": "Kanti Sweets",
+        "type": "confectionery",
+        "address": "5th cross Koramangala",
+        "lat": 12.9356613,
+        "lon": 77.621933
+    },
+    {
+        "name": "Shubh Jewellers",
+        "type": "jewelry",
+        "address": "N/A",
+        "lat": 12.9368167,
+        "lon": 77.619975
+    },
+    {
+        "name": "Kinetic Zone Service station",
+        "type": "car_repair",
+        "address": "17th b main koramangala",
+        "lat": 12.9364508,
+        "lon": 77.6239983
+    },
+    {
+        "name": "HMS Mutton center",
+        "type": "butcher",
+        "address": "N/A",
+        "lat": 12.936754,
+        "lon": 77.6247439
+    },
+    {
+        "name": "Iyengar bakers",
+        "type": "bakery",
+        "address": "N/A",
+        "lat": 12.9351019,
+        "lon": 77.6230488
+    },
+    {
+        "name": "Reid & Taylor",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9368533,
+        "lon": 77.6201144
+    },
+    {
+        "name": "Dreams on wheelz",
+        "type": "car_repair",
+        "address": "N/A",
+        "lat": 12.937648,
+        "lon": 77.6267717
+    },
+    {
+        "name": "Namdhari's fresh",
+        "type": "supermarket",
+        "address": "N/A",
+        "lat": 12.9382962,
+        "lon": 77.626001
+    },
+    {
+        "name": "OM Stationery and xerox",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.9364455,
+        "lon": 77.6255862
+    },
+    {
+        "name": "Sheelu Flowers",
+        "type": "florist",
+        "address": "N/A",
+        "lat": 12.937482,
+        "lon": 77.6265625
+    },
+    {
+        "name": "Brown Tree Super",
+        "type": "supermarket",
+        "address": "N/A",
+        "lat": 12.937363,
+        "lon": 77.626659
+    },
+    {
+        "name": "Mahindra showroom",
+        "type": "car",
+        "address": "N/A",
+        "lat": 12.9378271,
+        "lon": 77.6266388
+    },
+    {
+        "name": "Kids N Gifts",
+        "type": "gift",
+        "address": "N/A",
+        "lat": 12.933719,
+        "lon": 77.6176805
+    },
+    {
+        "name": "Gia Garments",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9338184,
+        "lon": 77.6192443
+    },
+    {
+        "name": "Hopcoms",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.9365946,
+        "lon": 77.6176725
+    },
+    {
+        "name": "House Man Cleaners",
+        "type": "dry_cleaning;laundry",
+        "address": "N/A",
+        "lat": 12.9351281,
+        "lon": 77.6228492
+    },
+    {
+        "name": "Theme Piano World",
+        "type": "music",
+        "address": "N/A",
+        "lat": 12.9420816,
+        "lon": 77.6220418
+    },
+    {
+        "name": "Unknown",
+        "type": "florist",
+        "address": "20th Main",
+        "lat": 12.9365949,
+        "lon": 77.6177189
+    },
+    {
+        "name": "Hot Chips",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.9362348,
+        "lon": 77.6210315
+    },
+    {
+        "name": "Scissors Enrich Unisex salon",
+        "type": "hairdresser",
+        "address": "N/A",
+        "lat": 12.9392359,
+        "lon": 77.6191015
+    },
+    {
+        "name": "Sizzling styles beauty parlor",
+        "type": "hairdresser",
+        "address": "N/A",
+        "lat": 12.9380674,
+        "lon": 77.6188279
+    },
+    {
+        "name": "Auto Fusion",
+        "type": "hifi",
+        "address": "N/A",
+        "lat": 12.9364989,
+        "lon": 77.6240368
+    },
+    {
+        "name": "Airtel Office",
+        "type": "telecommunication",
+        "address": "N/A",
+        "lat": 12.9359421,
+        "lon": 77.6157219
+    },
+    {
+        "name": "Bajaj Showroom",
+        "type": "motorcycle",
+        "address": "N/A",
+        "lat": 12.9390997,
+        "lon": 77.6190857
+    },
+    {
+        "name": "Bhima",
+        "type": "jewelry",
+        "address": "Jyothinivas college road",
+        "lat": 12.9324841,
+        "lon": 77.6137336
+    },
+    {
+        "name": "Kanyaka Clothes",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9252403,
+        "lon": 77.6337162
+    },
+    {
+        "name": "Madiwala Market",
+        "type": "seafood",
+        "address": "N/A",
+        "lat": 12.9226146,
+        "lon": 77.6225721
+    },
+    {
+        "name": "Max",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9375258,
+        "lon": 77.6285425
+    },
+    {
+        "name": "Roots Multiclean",
+        "type": "hifi",
+        "address": "N/A",
+        "lat": 12.9367337,
+        "lon": 77.6249849
+    },
+    {
+        "name": "Home Lifestyle",
+        "type": "hifi",
+        "address": "N/A",
+        "lat": 12.9373924,
+        "lon": 77.6279943
+    },
+    {
+        "name": "Kolourrs Unisex salon",
+        "type": "hairdresser",
+        "address": "N/A",
+        "lat": 12.9426306,
+        "lon": 77.6223732
+    },
+    {
+        "name": "Sumith Provision & Condiments",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.9372827,
+        "lon": 77.6245142
+    },
+    {
+        "name": "DHL couriers",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.9356619,
+        "lon": 77.619186
+    },
+    {
+        "name": "Sthra",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9372461,
+        "lon": 77.6198029
+    },
+    {
+        "name": "Gini & Jony",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9368121,
+        "lon": 77.6200764
+    },
+    {
+        "name": "Crystal Stationeries",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.9374604,
+        "lon": 77.6242714
+    },
+    {
+        "name": "G K Vale Photo Studio",
+        "type": "photo",
+        "address": "N/A",
+        "lat": 12.9371565,
+        "lon": 77.6194335
+    },
+    {
+        "name": "Proline fitness",
+        "type": "hifi",
+        "address": "N/A",
+        "lat": 12.9370422,
+        "lon": 77.6200711
+    },
+    {
+        "name": "New meena cotton sale",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9377454,
+        "lon": 77.6188695
+    },
+    {
+        "name": "Meena Fashions",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9373532,
+        "lon": 77.6195239
+    },
+    {
+        "name": "Book sale",
+        "type": "books",
+        "address": "N/A",
+        "lat": 12.9374839,
+        "lon": 77.6194381
+    },
+    {
+        "name": "Nilgiri's",
+        "type": "supermarket",
+        "address": "N/A",
+        "lat": 12.9266971,
+        "lon": 77.6236359
+    },
+    {
+        "name": "Lords & Kings Eye Gallery",
+        "type": "optician",
+        "address": "N/A",
+        "lat": 12.9337369,
+        "lon": 77.6176108
+    },
+    {
+        "name": "Furtados Music India Private Limited",
+        "type": "music",
+        "address": "N/A",
+        "lat": 12.935464,
+        "lon": 77.616304
+    },
+    {
+        "name": "G K Vale Photo Studio",
+        "type": "electronics",
+        "address": "N/A",
+        "lat": 12.939175,
+        "lon": 77.6191546
+    },
+    {
+        "name": "Unknown",
+        "type": "seafood",
+        "address": "N/A",
+        "lat": 12.9285453,
+        "lon": 77.6283645
+    },
+    {
+        "name": "Unknown",
+        "type": "hairdresser",
+        "address": "N/A",
+        "lat": 12.9285532,
+        "lon": 77.6282626
+    },
+    {
+        "name": "Unknown",
+        "type": "greengrocer",
+        "address": "N/A",
+        "lat": 12.9333424,
+        "lon": 77.6298772
+    },
+    {
+        "name": "Food Mall",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.9334024,
+        "lon": 77.6298023
+    },
+    {
+        "name": "Food Triangle",
+        "type": "supermarket",
+        "address": "N/A",
+        "lat": 12.9308637,
+        "lon": 77.623075
+    },
+    {
+        "name": "Fabindia",
+        "type": "clothes",
+        "address": "Mahayogi Vemana Road",
+        "lat": 12.9249779,
+        "lon": 77.6194667
+    },
+    {
+        "name": "Market Square Value Mall",
+        "type": "mall",
+        "address": "N/A",
+        "lat": 12.9219037,
+        "lon": 77.6203113
+    },
+    {
+        "name": "Map Sales Office",
+        "type": "books",
+        "address": "N/A",
+        "lat": 12.9263734,
+        "lon": 77.6222522
+    },
+    {
+        "name": "Nandini Milk Parlour",
+        "type": "dairy",
+        "address": "N/A",
+        "lat": 12.9460379,
+        "lon": 77.6221481
+    },
+    {
+        "name": "Nandini Milk Parlour",
+        "type": "dairy",
+        "address": "N/A",
+        "lat": 12.9440649,
+        "lon": 77.624007
+    },
+    {
+        "name": "Unknown",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.9436693,
+        "lon": 77.62521
+    },
+    {
+        "name": "Nami Designer",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9440787,
+        "lon": 77.6247551
+    },
+    {
+        "name": "The Bangalore A1",
+        "type": "dry_cleaning",
+        "address": "N/A",
+        "lat": 12.9440393,
+        "lon": 77.6257271
+    },
+    {
+        "name": "Sri Adhi Lakshmi",
+        "type": "general",
+        "address": "N/A",
+        "lat": 12.9447492,
+        "lon": 77.6244929
+    },
+    {
+        "name": "Sri Adhi Lakshmi",
+        "type": "stationery",
+        "address": "N/A",
+        "lat": 12.9450817,
+        "lon": 77.6242547
+    },
+    {
+        "name": "Bhunaa's",
+        "type": "beauty",
+        "address": "N/A",
+        "lat": 12.9451326,
+        "lon": 77.6242163
+    },
+    {
+        "name": "SLV Stores",
+        "type": "supermarket",
+        "address": "National Games Village",
+        "lat": 12.9482932,
+        "lon": 77.6213652
+    },
+    {
+        "name": "Fabindia",
+        "type": "clothes",
+        "address": "Mahayogi Vemana Road",
+        "lat": 12.9252297,
+        "lon": 77.6190939
+    },
+    {
+        "name": "Cross Words",
+        "type": "books",
+        "address": "N/A",
+        "lat": 12.9253133,
+        "lon": 77.6192763
+    },
+    {
+        "name": "Food Basics",
+        "type": "supermarket",
+        "address": "N/A",
+        "lat": 12.9319665,
+        "lon": 77.6179178
+    },
+    {
+        "name": "Inmark",
+        "type": "clothes",
+        "address": "80 feet road",
+        "lat": 12.934947,
+        "lon": 77.6139133
+    },
+    {
+        "name": "Vasthraa",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9374554,
+        "lon": 77.6195629
+    },
+    {
+        "name": "Friends Travels",
+        "type": "travel_agency",
+        "address": "Hosur Road",
+        "lat": 12.926326,
+        "lon": 77.6171749
+    },
+    {
+        "name": "Nature's Basket",
+        "type": "supermarket",
+        "address": "N/A",
+        "lat": 12.9337036,
+        "lon": 77.6229616
+    },
+    {
+        "name": "Naiyanar Bakery",
+        "type": "bakery",
+        "address": "N/A",
+        "lat": 12.9273443,
+        "lon": 77.6381549
+    },
+    {
+        "name": "Unknown",
+        "type": "Flipkart.com",
+        "address": "N/A",
+        "lat": 12.9327419,
+        "lon": 77.6269861
+    },
+    {
+        "name": "Sree Uday Sweets",
+        "type": "confectionery",
+        "address": "N/A",
+        "lat": 12.9359986,
+        "lon": 77.619624
+    },
+    {
+        "name": "Bangalore Horticulture Fruits and Vegetables",
+        "type": "greengrocer",
+        "address": "N/A",
+        "lat": 12.9360738,
+        "lon": 77.6194476
+    },
+    {
+        "name": "William Penn Private Limited (Pendels)",
+        "type": "gift",
+        "address": "17th B Main Road",
+        "lat": 12.9353544,
+        "lon": 77.6210999
+    },
+    {
+        "name": "TVS",
+        "type": "car",
+        "address": "N/A",
+        "lat": 12.9268723,
+        "lon": 77.623687
+    },
+    {
+        "name": "Proline Fitness",
+        "type": "sports",
+        "address": "Ground Floor, ARD Complex, 5th Cross, 6th Block, 5th Block, Koramangala",
+        "lat": 12.9364072,
+        "lon": 77.621398
+    },
+    {
+        "name": "Puma",
+        "type": "clothes",
+        "address": "ICICI Lombard General Insurance Madivala Bangalore, 2nd Floor, S V R Complex 89, Hosur Main Road,, Madiwala, 1st Stage, Koramangala",
+        "lat": 12.9452356,
+        "lon": 77.6184676
+    },
+    {
+        "name": "Naturals Unisex Salon And Spa",
+        "type": "beauty",
+        "address": "Madiwala Sarjapura Road",
+        "lat": 12.9217519,
+        "lon": 77.6205602
+    },
+    {
+        "name": "Charisma Spa Pvt Ltd",
+        "type": "beauty",
+        "address": "80 Feet Road;7th Main Road",
+        "lat": 12.9359041,
+        "lon": 77.6284372
+    },
+    {
+        "name": "The Craftery by Subko, BLR",
+        "type": "chocolate",
+        "address": "Sarjapura Road",
+        "lat": 12.926081,
+        "lon": 77.6254085
+    },
+    {
+        "name": "O2 Spa",
+        "type": "beauty",
+        "address": "12th Main Road",
+        "lat": 12.9289891,
+        "lon": 77.6278047
+    },
+    {
+        "name": "Four Fountains De Stress Spa",
+        "type": "beauty",
+        "address": "Koramangala",
+        "lat": 12.9349925,
+        "lon": 77.6228415
+    },
+    {
+        "name": "Ocean salon & spa",
+        "type": "beauty",
+        "address": "kathalipalya village ,Ejipura Dhekale ,6th cross 6th, block,Koramangala",
+        "lat": 12.9384867,
+        "lon": 77.6235272
+    },
+    {
+        "name": "Essence Unisex Salon And Spa",
+        "type": "beauty",
+        "address": "Jakkasandra extension, HSR Layout, 1st Block Koramangala,",
+        "lat": 12.9280827,
+        "lon": 77.6373095
+    },
+    {
+        "name": "Renaissance Unisex Salon & Spa",
+        "type": "beauty",
+        "address": "Koramangala, Koramangala 4th Block",
+        "lat": 12.9336239,
+        "lon": 77.6296283
+    },
+    {
+        "name": "The Beautique Women's Salon and Spa",
+        "type": "beauty",
+        "address": "Koramangala., 5th Block, Koramangala",
+        "lat": 12.9348205,
+        "lon": 77.6169334
+    },
+    {
+        "name": "Margarets Hair Dressing",
+        "type": "beauty",
+        "address": "80 Feet Road kormangala",
+        "lat": 12.9344426,
+        "lon": 77.6130436
+    },
+    {
+        "name": "Green Trends - Unisex Hair & Style Salon",
+        "type": "beauty",
+        "address": ", R.K complex, K.H.B colony",
+        "lat": 12.937152,
+        "lon": 77.6195215
+    },
+    {
+        "name": "STUDIO11 Salon & Spa",
+        "type": "beauty",
+        "address": "6th Block, Opp Koramangala Bus Depot,Koramangala, 6th Block",
+        "lat": 12.9406759,
+        "lon": 77.6245
+    },
+    {
+        "name": "Isthaa spa",
+        "type": "beauty",
+        "address": "Gunjur, 239, 1st Cross Rd, 1st Block Koramangala",
+        "lat": 12.9252152,
+        "lon": 77.6338719
+    },
+    {
+        "name": "Fringes Unisex Salon",
+        "type": "cosmetics",
+        "address": "N/A",
+        "lat": 12.9340373,
+        "lon": 77.6272494
+    },
+    {
+        "name": "St.John's Utility Complex",
+        "type": "bakery",
+        "address": "Sarjapur Road",
+        "lat": 12.9308168,
+        "lon": 77.6180438
+    },
+    {
+        "name": "William Penn",
+        "type": "stationery",
+        "address": "N/A",
+        "lat": 12.9338103,
+        "lon": 77.6199863
+    },
+    {
+        "name": "SOCH",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9378068,
+        "lon": 77.6271846
+    },
+    {
+        "name": "Kushals",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9378414,
+        "lon": 77.6272417
+    },
+    {
+        "name": "Maruti Suzuki",
+        "type": "car",
+        "address": "Mahayogi Vemana Road",
+        "lat": 12.9315321,
+        "lon": 77.6228069
+    },
+    {
+        "name": "St Johns opticians and hearing aid",
+        "type": "optician",
+        "address": "N/A",
+        "lat": 12.9306558,
+        "lon": 77.6179004
+    },
+    {
+        "name": "Sanoop Provision Stores",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.9355095,
+        "lon": 77.6187649
+    },
+    {
+        "name": "Metro",
+        "type": "shoes",
+        "address": "N/A",
+        "lat": 12.9240637,
+        "lon": 77.6186205
+    },
+    {
+        "name": "R R International Bikes",
+        "type": "bicycle",
+        "address": "N/A",
+        "lat": 12.9242148,
+        "lon": 77.6185133
+    },
+    {
+        "name": "Mi store",
+        "type": "mobile_phone",
+        "address": "N/A",
+        "lat": 12.9353889,
+        "lon": 77.6157423
+    },
+    {
+        "name": "Van Heusen",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9368246,
+        "lon": 77.6182965
+    },
+    {
+        "name": "Riya Kodali Design House",
+        "type": "yes",
+        "address": "N/A",
+        "lat": 12.9367256,
+        "lon": 77.6265291
+    },
+    {
+        "name": "Malabar Gold and Diamonds",
+        "type": "jewelry",
+        "address": "N/A",
+        "lat": 12.9360713,
+        "lon": 77.6251208
+    },
+    {
+        "name": "Tibet Mall",
+        "type": "mall",
+        "address": "N/A",
+        "lat": 12.9337996,
+        "lon": 77.6159147
+    },
+    {
+        "name": "Spice Girls",
+        "type": "yes",
+        "address": "N/A",
+        "lat": 12.9342331,
+        "lon": 77.6164224
+    },
+    {
+        "name": "Petals",
+        "type": "yes",
+        "address": "N/A",
+        "lat": 12.9348078,
+        "lon": 77.6291104
+    },
+    {
+        "name": "iService - iPhone, MacBook, Oneplus, Xiaomi Repairs and Service Center",
+        "type": "electronics",
+        "address": "N/A",
+        "lat": 12.926672,
+        "lon": 77.6335707
+    },
+    {
+        "name": "Aishwarya",
+        "type": "department_store",
+        "address": "N/A",
+        "lat": 12.9253183,
+        "lon": 77.6348207
+    },
+    {
+        "name": "Lassi top",
+        "type": "coffee",
+        "address": "N/A",
+        "lat": 12.9367507,
+        "lon": 77.62774
+    },
+    {
+        "name": "Lassi Shop",
+        "type": "coffee",
+        "address": "N/A",
+        "lat": 12.9340215,
+        "lon": 77.6293735
+    },
+    {
+        "name": "Indian TVS",
+        "type": "motorcycle",
+        "address": "N/A",
+        "lat": 12.9228918,
+        "lon": 77.6194018
+    },
+    {
+        "name": "Davanam Sarovar Portico Suites",
+        "type": "mall",
+        "address": "N/A",
+        "lat": 12.9216966,
+        "lon": 77.620318
+    },
+    {
+        "name": "Sour House",
+        "type": "bakery",
+        "address": "80 Feet Road",
+        "lat": 12.9407064,
+        "lon": 77.6201677
+    },
+    {
+        "name": "Iyengar Bakery",
+        "type": "bakery",
+        "address": "N/A",
+        "lat": 12.9285794,
+        "lon": 77.628205
+    },
+    {
+        "name": "Unknown",
+        "type": "car",
+        "address": "N/A",
+        "lat": 12.9286787,
+        "lon": 77.6242715
+    },
+    {
+        "name": "The Sleep Company Store",
+        "type": "furniture",
+        "address": "N/A",
+        "lat": 12.9349148,
+        "lon": 77.6294281
+    },
+    {
+        "name": "Tanishq",
+        "type": "jewelry",
+        "address": "N/A",
+        "lat": 12.9342979,
+        "lon": 77.623428
+    },
+    {
+        "name": "Cherry Pick Furniture",
+        "type": "furniture",
+        "address": "N/A",
+        "lat": 12.9434734,
+        "lon": 77.6212956
+    },
+    {
+        "name": "Akshara Motors",
+        "type": "car",
+        "address": "N/A",
+        "lat": 12.9449962,
+        "lon": 77.6194713
+    },
+    {
+        "name": "Advaith Hyundai",
+        "type": "car",
+        "address": "N/A",
+        "lat": 12.9448081,
+        "lon": 77.6197397
+    },
+    {
+        "name": "Liquor Mart",
+        "type": "alcohol",
+        "address": "N/A",
+        "lat": 12.9433532,
+        "lon": 77.6215421
+    },
+    {
+        "name": "Manu Pit Stop",
+        "type": "car_repair",
+        "address": "N/A",
+        "lat": 12.943275,
+        "lon": 77.6216701
+    },
+    {
+        "name": "Zudio",
+        "type": "clothes",
+        "address": "80 Feet Road",
+        "lat": 12.9450064,
+        "lon": 77.620248
+    },
+    {
+        "name": "My Tech World",
+        "type": "computer",
+        "address": "N/A",
+        "lat": 12.942727,
+        "lon": 77.6222852
+    },
+    {
+        "name": "Just Dogs",
+        "type": "pet",
+        "address": "N/A",
+        "lat": 12.9423709,
+        "lon": 77.6226909
+    },
+    {
+        "name": "H.K.G.N Bike Mechanic",
+        "type": "motorcycle_repair",
+        "address": "N/A",
+        "lat": 12.9425012,
+        "lon": 77.6229374
+    },
+    {
+        "name": "Puncture Shop",
+        "type": "motorcycle",
+        "address": "N/A",
+        "lat": 12.9413673,
+        "lon": 77.6240803
+    },
+    {
+        "name": "Retreat Spa & Salon",
+        "type": "massage",
+        "address": "N/A",
+        "lat": 12.9408618,
+        "lon": 77.6242481
+    },
+    {
+        "name": "R.K.Mens Saloon",
+        "type": "hairdresser",
+        "address": "N/A",
+        "lat": 12.9407259,
+        "lon": 77.6268205
+    },
+    {
+        "name": "Tyre Port",
+        "type": "tyres",
+        "address": "N/A",
+        "lat": 12.9400847,
+        "lon": 77.6250647
+    },
+    {
+        "name": "Perfect Yamaha",
+        "type": "motorcycle",
+        "address": "N/A",
+        "lat": 12.9403001,
+        "lon": 77.6252477
+    },
+    {
+        "name": "Raju Honda",
+        "type": "motorcycle",
+        "address": "N/A",
+        "lat": 12.9402228,
+        "lon": 77.6252938
+    },
+    {
+        "name": "Flora Beauty Salon",
+        "type": "beauty",
+        "address": "N/A",
+        "lat": 12.9406228,
+        "lon": 77.6261245
+    },
+    {
+        "name": "Hello Mobile",
+        "type": "mobile_phone",
+        "address": "N/A",
+        "lat": 12.9405384,
+        "lon": 77.6261865
+    },
+    {
+        "name": "Biba",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9392334,
+        "lon": 77.6191718
+    },
+    {
+        "name": "Enrich",
+        "type": "beauty",
+        "address": "N/A",
+        "lat": 12.9402915,
+        "lon": 77.6198934
+    },
+    {
+        "name": "Heads up For Tails",
+        "type": "pet",
+        "address": "N/A",
+        "lat": 12.940527,
+        "lon": 77.620013
+    },
+    {
+        "name": "icycle.in",
+        "type": "bicycle",
+        "address": "N/A",
+        "lat": 12.9365956,
+        "lon": 77.6273239
+    },
+    {
+        "name": "VLCC",
+        "type": "beauty",
+        "address": "N/A",
+        "lat": 12.9367647,
+        "lon": 77.6271187
+    },
+    {
+        "name": "KM Shukla Store",
+        "type": "convenience",
+        "address": "N/A",
+        "lat": 12.9352769,
+        "lon": 77.6299633
+    },
+    {
+        "name": "Sri Bhuvaneswari Laundry",
+        "type": "laundry",
+        "address": "N/A",
+        "lat": 12.9350889,
+        "lon": 77.6300415
+    },
+    {
+        "name": "Sri Manjunatha 2 Wheeler Repair",
+        "type": "motorcycle_repair",
+        "address": "N/A",
+        "lat": 12.9355706,
+        "lon": 77.6298416
+    },
+    {
+        "name": "Parameshwari Traders",
+        "type": "department_store",
+        "address": "N/A",
+        "lat": 12.9391778,
+        "lon": 77.6258972
+    },
+    {
+        "name": "Lenovo",
+        "type": "computer",
+        "address": "N/A",
+        "lat": 12.938973,
+        "lon": 77.6259626
+    },
+    {
+        "name": "Realme",
+        "type": "mobile_phone",
+        "address": "N/A",
+        "lat": 12.9390389,
+        "lon": 77.6259421
+    },
+    {
+        "name": "Auto Style",
+        "type": "car_parts",
+        "address": "N/A",
+        "lat": 12.9396583,
+        "lon": 77.6257225
+    },
+    {
+        "name": "Acer Mall",
+        "type": "computer",
+        "address": "N/A",
+        "lat": 12.9392459,
+        "lon": 77.6258767
+    },
+    {
+        "name": "Fatima",
+        "type": "bakery",
+        "address": "N/A",
+        "lat": 12.939109,
+        "lon": 77.6259207
+    },
+    {
+        "name": "Khanate Bespoke Fashion",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9395545,
+        "lon": 77.6257533
+    },
+    {
+        "name": "The Detailing Mafia",
+        "type": "car_repair",
+        "address": "N/A",
+        "lat": 12.9385446,
+        "lon": 77.6261803
+    },
+    {
+        "name": "Dell Exclusive Store",
+        "type": "computer",
+        "address": "N/A",
+        "lat": 12.9387545,
+        "lon": 77.6260701
+    },
+    {
+        "name": "Asus",
+        "type": "computer",
+        "address": "N/A",
+        "lat": 12.93869,
+        "lon": 77.6261024
+    },
+    {
+        "name": "Bhumi Spirit",
+        "type": "alcohol",
+        "address": "N/A",
+        "lat": 12.9388064,
+        "lon": 77.6260422
+    },
+    {
+        "name": "Atta Galatta",
+        "type": "books",
+        "address": "N/A",
+        "lat": 12.9342205,
+        "lon": 77.617012
+    },
+    {
+        "name": "Nandini Milk Parlour",
+        "type": "dairy",
+        "address": "N/A",
+        "lat": 12.9351488,
+        "lon": 77.621022
+    },
+    {
+        "name": "Coorg Fresh Vegetables and Fruits",
+        "type": "greengrocer",
+        "address": "8th Main Road",
+        "lat": 12.9350462,
+        "lon": 77.6249939
+    },
+    {
+        "name": "Bhima Jewellers",
+        "type": "jewelry",
+        "address": "8th Main Road",
+        "lat": 12.9346147,
+        "lon": 77.6250274
+    },
+    {
+        "name": "Aubree",
+        "type": "chocolate",
+        "address": "N/A",
+        "lat": 12.9423062,
+        "lon": 77.6227822
+    },
+    {
+        "name": "Unknown",
+        "type": "greengrocer",
+        "address": "N/A",
+        "lat": 12.9256704,
+        "lon": 77.625097
+    },
+    {
+        "name": "Truefitt & Hill",
+        "type": "hairdresser",
+        "address": "N/A",
+        "lat": 12.9313575,
+        "lon": 77.6324685
+    },
+    {
+        "name": "Nari & K\u0101ge",
+        "type": "cheese",
+        "address": "N/A",
+        "lat": 12.9336416,
+        "lon": 77.628382
+    },
+    {
+        "name": "Bookstop",
+        "type": "books",
+        "address": "N/A",
+        "lat": 12.9337958,
+        "lon": 77.6189412
+    },
+    {
+        "name": "Kanti Sweets",
+        "type": "confectionery",
+        "address": "N/A",
+        "lat": 12.9304908,
+        "lon": 77.6229826
+    },
+    {
+        "name": "Glen's Bakehouse",
+        "type": "pastry",
+        "address": "N/A",
+        "lat": 12.937942,
+        "lon": 77.6262087
+    },
+    {
+        "name": "Kalyan Jewellers",
+        "type": "jewelry",
+        "address": "Jyoti Nivas College Road",
+        "lat": 12.9327438,
+        "lon": 77.6138112
+    },
+    {
+        "name": "Samsung",
+        "type": "electronics",
+        "address": "N/A",
+        "lat": 12.9359771,
+        "lon": 77.615876
+    },
+    {
+        "name": "Fastrack",
+        "type": "fashion_accessories",
+        "address": "N/A",
+        "lat": 12.9361931,
+        "lon": 77.6165834
+    },
+    {
+        "name": "Lenzkare.in",
+        "type": "fashion_accessories",
+        "address": "N/A",
+        "lat": 12.9361248,
+        "lon": 77.6162068
+    },
+    {
+        "name": "Unknown",
+        "type": "mobile_phone",
+        "address": "N/A",
+        "lat": 12.936149,
+        "lon": 77.6162675
+    },
+    {
+        "name": "Titan",
+        "type": "watches",
+        "address": "N/A",
+        "lat": 12.9361751,
+        "lon": 77.6163698
+    },
+    {
+        "name": "Keychron India",
+        "type": "computer",
+        "address": "N/A",
+        "lat": 12.9360998,
+        "lon": 77.6160737
+    },
+    {
+        "name": "Tonique",
+        "type": "alcohol",
+        "address": "N/A",
+        "lat": 12.9343273,
+        "lon": 77.6127983
+    },
+    {
+        "name": "JSP Motorrad",
+        "type": "motorcycle",
+        "address": "N/A",
+        "lat": 12.935429,
+        "lon": 77.6284361
+    },
+    {
+        "name": "Wooden Street",
+        "type": "furniture",
+        "address": "N/A",
+        "lat": 12.9302112,
+        "lon": 77.6329689
+    },
+    {
+        "name": "Duroflex",
+        "type": "bed",
+        "address": "N/A",
+        "lat": 12.9346521,
+        "lon": 77.6297029
+    },
+    {
+        "name": "Sleepwell",
+        "type": "bed",
+        "address": "N/A",
+        "lat": 12.9353516,
+        "lon": 77.6289478
+    },
+    {
+        "name": "Mercedes Benz",
+        "type": "car",
+        "address": "N/A",
+        "lat": 12.9355461,
+        "lon": 77.62827
+    },
+    {
+        "name": "Sony Centre",
+        "type": "electronics",
+        "address": "N/A",
+        "lat": 12.9366403,
+        "lon": 77.6277623
+    },
+    {
+        "name": "imagine",
+        "type": "electronics",
+        "address": "N/A",
+        "lat": 12.9363775,
+        "lon": 77.6274783
+    },
+    {
+        "name": "Amona",
+        "type": "beauty",
+        "address": "N/A",
+        "lat": 12.9363539,
+        "lon": 77.6274229
+    },
+    {
+        "name": "Reliance Jewels",
+        "type": "jewelry",
+        "address": "N/A",
+        "lat": 12.9364323,
+        "lon": 77.6273237
+    },
+    {
+        "name": "rentomojo.com",
+        "type": "furniture",
+        "address": "N/A",
+        "lat": 12.9373048,
+        "lon": 77.626698
+    },
+    {
+        "name": "Satyam Office Suppliers",
+        "type": "stationery",
+        "address": "N/A",
+        "lat": 12.9374048,
+        "lon": 77.6266273
+    },
+    {
+        "name": "Mega IT Store",
+        "type": "electronics",
+        "address": "N/A",
+        "lat": 12.9381932,
+        "lon": 77.6259997
+    },
+    {
+        "name": "Satvik Aahar",
+        "type": "supermarket",
+        "address": "N/A",
+        "lat": 12.9418935,
+        "lon": 77.6231805
+    },
+    {
+        "name": "Dell",
+        "type": "computer",
+        "address": "N/A",
+        "lat": 12.9425114,
+        "lon": 77.6225024
+    },
+    {
+        "name": "Bajaj",
+        "type": "motorcycle",
+        "address": "N/A",
+        "lat": 12.9431166,
+        "lon": 77.6218102
+    },
+    {
+        "name": "Toni & Guy",
+        "type": "hairdresser",
+        "address": "N/A",
+        "lat": 12.9452528,
+        "lon": 77.6198347
+    },
+    {
+        "name": "Kunafa Story",
+        "type": "confectionery",
+        "address": "N/A",
+        "lat": 12.9343315,
+        "lon": 77.6170022
+    },
+    {
+        "name": "JusBake",
+        "type": "bakery",
+        "address": "N/A",
+        "lat": 12.9268376,
+        "lon": 77.6332674
+    },
+    {
+        "name": "Unknown",
+        "type": "tea",
+        "address": "N/A",
+        "lat": 12.9241801,
+        "lon": 77.6285542
+    },
+    {
+        "name": "Sapphire Toys",
+        "type": "toys",
+        "address": "N/A",
+        "lat": 12.937206,
+        "lon": 77.6272579
+    },
+    {
+        "name": "Electronics Bazaar",
+        "type": "computer",
+        "address": "N/A",
+        "lat": 12.933798,
+        "lon": 77.6299607
+    },
+    {
+        "name": "Helios",
+        "type": "watches",
+        "address": "N/A",
+        "lat": 12.935764,
+        "lon": 77.6285398
+    },
+    {
+        "name": "Lighting Emporio",
+        "type": "lighting",
+        "address": "N/A",
+        "lat": 12.936888,
+        "lon": 77.6270479
+    },
+    {
+        "name": "GIVA",
+        "type": "jewelry",
+        "address": "N/A",
+        "lat": 12.9372703,
+        "lon": 77.6266577
+    },
+    {
+        "name": "LG",
+        "type": "electronics",
+        "address": "N/A",
+        "lat": 12.9266025,
+        "lon": 77.6332815
+    },
+    {
+        "name": "Unknown",
+        "type": "garden_centre",
+        "address": "N/A",
+        "lat": 12.9320555,
+        "lon": 77.6318284
+    },
+    {
+        "name": "The Organic World",
+        "type": "supermarket",
+        "address": "N/A",
+        "lat": 12.9338285,
+        "lon": 77.629995
+    },
+    {
+        "name": "Kurl-On",
+        "type": "bed",
+        "address": "N/A",
+        "lat": 12.9345066,
+        "lon": 77.6293607
+    },
+    {
+        "name": "Classic Men's Salon",
+        "type": "hairdresser",
+        "address": "N/A",
+        "lat": 12.9466331,
+        "lon": 77.6186349
+    },
+    {
+        "name": "Cut & Style Salon",
+        "type": "hairdresser",
+        "address": "N/A",
+        "lat": 12.9295032,
+        "lon": 77.6326634
+    },
+    {
+        "name": "YLG Salon",
+        "type": "beauty",
+        "address": "N/A",
+        "lat": 12.9311505,
+        "lon": 77.6325856
+    },
+    {
+        "name": "Lotus Unisex Spa",
+        "type": "massage",
+        "address": "N/A",
+        "lat": 12.930842,
+        "lon": 77.633114
+    },
+    {
+        "name": "Unknown",
+        "type": "car",
+        "address": "N/A",
+        "lat": 12.9361379,
+        "lon": 77.6277548
+    },
+    {
+        "name": "GKB Opticals",
+        "type": "optician",
+        "address": "N/A",
+        "lat": 12.9368734,
+        "lon": 77.6275483
+    },
+    {
+        "name": "iworld",
+        "type": "electronics",
+        "address": "N/A",
+        "lat": 12.9369935,
+        "lon": 77.6273987
+    },
+    {
+        "name": "Daily Bakehouse",
+        "type": "bakery",
+        "address": "7th Cross Road",
+        "lat": 12.9313963,
+        "lon": 77.6234718
+    },
+    {
+        "name": "Volkswagen City Store",
+        "type": "car",
+        "address": "N/A",
+        "lat": 12.9293372,
+        "lon": 77.6218922
+    },
+    {
+        "name": "ABCD",
+        "type": "yes",
+        "address": "N/A",
+        "lat": 12.934701,
+        "lon": 77.6149856
+    },
+    {
+        "name": "Zeiss Vision Center",
+        "type": "optician",
+        "address": "N/A",
+        "lat": 12.9315093,
+        "lon": 77.6324208
+    },
+    {
+        "name": "enrich",
+        "type": "beauty",
+        "address": "N/A",
+        "lat": 12.9315158,
+        "lon": 77.6328365
+    },
+    {
+        "name": "Noodira Salon",
+        "type": "beauty",
+        "address": "80 Feet Road",
+        "lat": 12.9323246,
+        "lon": 77.6320872
+    },
+    {
+        "name": "Bottle Store",
+        "type": "alcohol",
+        "address": "80 Feet Road",
+        "lat": 12.9321791,
+        "lon": 77.6321694
+    },
+    {
+        "name": "DriveX NIAX Motors",
+        "type": "motorcycle",
+        "address": "80 Feet Road",
+        "lat": 12.9300397,
+        "lon": 77.6332545
+    },
+    {
+        "name": "Nanesh Unisex Salon",
+        "type": "beauty",
+        "address": "7th Cross Road",
+        "lat": 12.9295327,
+        "lon": 77.6320146
+    },
+    {
+        "name": "Pulito Wash",
+        "type": "laundry",
+        "address": "80 Feet Road",
+        "lat": 12.9306501,
+        "lon": 77.6331509
+    },
+    {
+        "name": "LokoMAD",
+        "type": "pastry",
+        "address": "N/A",
+        "lat": 12.9308818,
+        "lon": 77.6327024
+    },
+    {
+        "name": "Max",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9217186,
+        "lon": 77.6204743
+    },
+    {
+        "name": "Wire up",
+        "type": "musical_instrument",
+        "address": "N/A",
+        "lat": 12.9340933,
+        "lon": 77.6297208
+    },
+    {
+        "name": "Slay",
+        "type": "coffee",
+        "address": "N/A",
+        "lat": 12.9337657,
+        "lon": 77.62097
+    },
+    {
+        "name": "Worksupp (WSC Technologies Pvt ltd)",
+        "type": "wholesale",
+        "address": "Venkata Reddy Layout",
+        "lat": 12.9383091,
+        "lon": 77.6271996
+    },
+    {
+        "name": "Helios The Watch Store.",
+        "type": "watches",
+        "address": "N/A",
+        "lat": 12.9358705,
+        "lon": 77.6284503
+    },
+    {
+        "name": "Aloe Spa",
+        "type": "beauty",
+        "address": "Hotel Davanam Sarovar Portico Suites, 7th floor, Hosur road Besides Total Mall, Madiwala, Koramangala 2nd Block, Koramangala",
+        "lat": 12.9218259,
+        "lon": 77.6205566
+    },
+    {
+        "name": "Southern Spa Madiwala",
+        "type": "beauty",
+        "address": "2nd floor, Market Square Mall, Hosur Rd, opp. Madiwala Traffic Police Station, Sidharata Colony, Madiwala, Koramangala 2nd Block, Koramangala",
+        "lat": 12.9217289,
+        "lon": 77.6202688
+    },
+    {
+        "name": "Oasis Centre",
+        "type": "mall",
+        "address": "N/A",
+        "lat": 12.9375355,
+        "lon": 77.6281117
+    },
+    {
+        "name": "Spencer",
+        "type": "supermarket",
+        "address": "100 Feet Rd, 3rd Block, Koramangala",
+        "lat": 12.9271752,
+        "lon": 77.6330217
+    },
+    {
+        "name": "Reliance Digital",
+        "type": "electronics",
+        "address": "80 Feet Peripheral Rd",
+        "lat": 12.9364374,
+        "lon": 77.6280698
+    },
+    {
+        "name": "Market Square Mall",
+        "type": "mall",
+        "address": "Madiwala Sarajpura Road",
+        "lat": 12.9219021,
+        "lon": 77.620384
+    },
+    {
+        "name": "Nuts Corner",
+        "type": "nuts",
+        "address": "N/A",
+        "lat": 12.9309751,
+        "lon": 77.6338422
+    },
+    {
+        "name": "Reliance Fresh",
+        "type": "supermarket",
+        "address": "N/A",
+        "lat": 12.9404099,
+        "lon": 77.6199261
+    },
+    {
+        "name": "Philips Hue",
+        "type": "electronics",
+        "address": "N/A",
+        "lat": 12.9368506,
+        "lon": 77.6270002
+    },
+    {
+        "name": "Panasonic Brand shop 100 feet",
+        "type": "electronics",
+        "address": "N/A",
+        "lat": 12.9351715,
+        "lon": 77.6247566
+    },
+    {
+        "name": "Godrej Nature's Basket",
+        "type": "yes",
+        "address": "N/A",
+        "lat": 12.9337155,
+        "lon": 77.6229454
+    },
+    {
+        "name": "Wildcraft",
+        "type": "clothes",
+        "address": "N/A",
+        "lat": 12.9369493,
+        "lon": 77.6269231
+    },
+    {
+        "name": "DMart",
+        "type": "supermarket",
+        "address": "Temple Trees Rd, Cauvery Colony",
+        "lat": 12.9321517,
+        "lon": 77.6346228
+    }
+]
