@@ -1,0 +1,22 @@
+langchain
+langchain-community
+langchain-groq
+langgraph
+groq
+python-dotenv
+
+# RAG support
+faiss-cpu
+tiktoken
+chromadb
+unstructured
+pypdf
+
+# LLM & embeddings
+openai
+
+# Web research agent (next step)
+tavily-python
+
+# Streamlit UI
+streamlit
